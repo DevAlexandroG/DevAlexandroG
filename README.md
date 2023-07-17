@@ -36,8 +36,9 @@ Open project
 Contact Information
 
 - 📫 How to reach me:
-- Email: [devalexandrog@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/alexandro-golikov-259ba1202/]
+- Email: devalexandrog@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alexandro-golikov-259ba1202/
+- Telegram: https://t.me/devAlexandro
   
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out to me with any inquiries or collaboration opportunities.
 Let's connect and create something great together!
