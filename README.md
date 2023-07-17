@@ -1,7 +1,6 @@
 ### DevAlexandroG's GitHub Profile
 
 ### Hi there 👋
-### Introduction
 ### Welcome to my GitHub profile! 
 ### I'm Alex, a passionate software engineer with a strong background in web development. 
 
