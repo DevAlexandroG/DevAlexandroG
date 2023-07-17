@@ -31,9 +31,9 @@ Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 Open project
-[Altium]: Worked a web-based Forum application using ASP.NET. Users can register, create posts, and engage in discussions.
+Altium: Worked a web-based Forum application using ASP.NET. Users can register, create posts, and engage in discussions.
 
-[Saint Petersburg State University of Aerospace and Instrumentation]: Bachelor's Degree in Computer Science (Year)
+Saint Petersburg State University of Aerospace and Instrumentation: Bachelor's Degree in Computer Science
 
 Contact Information
 
