@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 ### Welcome to my GitHub profile! 
-### I'm Alexander, a passionate software engineer with a strong background in web development. 
+### I'm Aleksandr, a passionate software engineer with a strong background in web development. 
 
 - 🔭 I’m currently working on language app
 - 🌱 I’m currently learning React Native
